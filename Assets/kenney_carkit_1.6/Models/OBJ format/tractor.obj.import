@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cy3ju20eepsn1"
+path="res://.godot/imported/tractor.obj-1999f80a1a306f1d65c72c30d5fcc5d9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tractor.obj-1999f80a1a306f1d65c72c30d5fcc5d9.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/tractor.obj"
+dest_files=["res://.godot/imported/tractor.obj-1999f80a1a306f1d65c72c30d5fcc5d9.mesh", "res://.godot/imported/tractor.obj-1999f80a1a306f1d65c72c30d5fcc5d9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

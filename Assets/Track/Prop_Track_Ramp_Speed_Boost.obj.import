@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cd6opten7eka7"
+path="res://.godot/imported/Prop_Track_Ramp_Speed_Boost.obj-4dd410f9cd55b2b18d18e22707b39167.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Track_Ramp_Speed_Boost.obj-4dd410f9cd55b2b18d18e22707b39167.mesh"]
+
+source_file="res://Assets/Track/Prop_Track_Ramp_Speed_Boost.obj"
+dest_files=["res://.godot/imported/Prop_Track_Ramp_Speed_Boost.obj-4dd410f9cd55b2b18d18e22707b39167.mesh", "res://.godot/imported/Prop_Track_Ramp_Speed_Boost.obj-4dd410f9cd55b2b18d18e22707b39167.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

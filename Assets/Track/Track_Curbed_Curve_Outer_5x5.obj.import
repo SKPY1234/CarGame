@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c78bf2vmfr7tu"
+path="res://.godot/imported/Track_Curbed_Curve_Outer_5x5.obj-d86db0b3fb4a58d797f16042d9083d80.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Curbed_Curve_Outer_5x5.obj-d86db0b3fb4a58d797f16042d9083d80.mesh"]
+
+source_file="res://Assets/Track/Track_Curbed_Curve_Outer_5x5.obj"
+dest_files=["res://.godot/imported/Track_Curbed_Curve_Outer_5x5.obj-d86db0b3fb4a58d797f16042d9083d80.mesh", "res://.godot/imported/Track_Curbed_Curve_Outer_5x5.obj-d86db0b3fb4a58d797f16042d9083d80.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bmmn0rxftw8mr"
+path="res://.godot/imported/Prop_Track_Finish_Line_Edge_1x1.obj-f152adc4ad78afedf4f6609b5757bd7e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Track_Finish_Line_Edge_1x1.obj-f152adc4ad78afedf4f6609b5757bd7e.mesh"]
+
+source_file="res://Assets/Track/Prop_Track_Finish_Line_Edge_1x1.obj"
+dest_files=["res://.godot/imported/Prop_Track_Finish_Line_Edge_1x1.obj-f152adc4ad78afedf4f6609b5757bd7e.mesh", "res://.godot/imported/Prop_Track_Finish_Line_Edge_1x1.obj-f152adc4ad78afedf4f6609b5757bd7e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj6alh8m70sx6"
+path="res://.godot/imported/Track_Mine_Curve_3x3.obj-cfe9a50af0daf99f81b682709fd93150.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Mine_Curve_3x3.obj-cfe9a50af0daf99f81b682709fd93150.mesh"]
+
+source_file="res://Assets/Track/Track_Mine_Curve_3x3.obj"
+dest_files=["res://.godot/imported/Track_Mine_Curve_3x3.obj-cfe9a50af0daf99f81b682709fd93150.mesh", "res://.godot/imported/Track_Mine_Curve_3x3.obj-cfe9a50af0daf99f81b682709fd93150.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://qo48txuaf7gj"]
+
+[ext_resource type="Script" path="res://Game/Scenes/Car/BaseCar/node_follow.gd" id="1_07stf"]
+
+[node name="NodeFollow" type="Node3D"]
+script = ExtResource("1_07stf")

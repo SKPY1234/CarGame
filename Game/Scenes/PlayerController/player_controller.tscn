@@ -1,0 +1,35 @@
+[gd_scene load_steps=2 format=3 uid="uid://dcrnqnirn57ja"]
+
+[ext_resource type="Script" path="res://Game/Scenes/PlayerController/player_controller.gd" id="1_mkide"]
+
+[node name="PlayerController" type="Node3D"]
+script = ExtResource("1_mkide")
+
+[node name="chase_near" type="Marker3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.128, 3.49)
+
+[node name="forward" type="Marker3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.41809, -3.47971)
+
+[node name="UI" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Engine_Power" type="ProgressBar" parent="UI"]
+layout_mode = 0
+offset_left = 22.0
+offset_top = 593.0
+offset_right = 305.0
+offset_bottom = 620.0
+
+[node name="Speed" type="Label" parent="UI"]
+layout_mode = 0
+offset_left = 148.0
+offset_top = 554.0
+offset_right = 188.0
+offset_bottom = 580.0
+text = "123"

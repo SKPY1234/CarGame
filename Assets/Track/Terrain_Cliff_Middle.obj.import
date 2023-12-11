@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://j5v8f4ec4npp"
+path="res://.godot/imported/Terrain_Cliff_Middle.obj-e7e7c8c977bde2429269a45ad1edc279.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Terrain_Cliff_Middle.obj-e7e7c8c977bde2429269a45ad1edc279.mesh"]
+
+source_file="res://Assets/Track/Terrain_Cliff_Middle.obj"
+dest_files=["res://.godot/imported/Terrain_Cliff_Middle.obj-e7e7c8c977bde2429269a45ad1edc279.mesh", "res://.godot/imported/Terrain_Cliff_Middle.obj-e7e7c8c977bde2429269a45ad1edc279.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b22abuv2jmgod"
+path="res://.godot/imported/Track_Normal_Curve_Inner_4x4.obj-cae06f292bf117692b768e5dae15ce99.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Normal_Curve_Inner_4x4.obj-cae06f292bf117692b768e5dae15ce99.mesh"]
+
+source_file="res://Assets/Track/Track_Normal_Curve_Inner_4x4.obj"
+dest_files=["res://.godot/imported/Track_Normal_Curve_Inner_4x4.obj-cae06f292bf117692b768e5dae15ce99.mesh", "res://.godot/imported/Track_Normal_Curve_Inner_4x4.obj-cae06f292bf117692b768e5dae15ce99.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

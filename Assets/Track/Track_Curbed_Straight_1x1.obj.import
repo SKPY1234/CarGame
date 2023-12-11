@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2oph4dvfuo5x"
+path="res://.godot/imported/Track_Curbed_Straight_1x1.obj-104d77850f974dc91b5c4270f7946d5f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Curbed_Straight_1x1.obj-104d77850f974dc91b5c4270f7946d5f.mesh"]
+
+source_file="res://Assets/Track/Track_Curbed_Straight_1x1.obj"
+dest_files=["res://.godot/imported/Track_Curbed_Straight_1x1.obj-104d77850f974dc91b5c4270f7946d5f.mesh", "res://.godot/imported/Track_Curbed_Straight_1x1.obj-104d77850f974dc91b5c4270f7946d5f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

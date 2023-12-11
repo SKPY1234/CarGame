@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dlkg4t2cq7s3d"
+path="res://.godot/imported/Prop_Obstacle_Swinging_Hammer.obj-da2f41fc085fc31e3f1dfdcba2246632.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Obstacle_Swinging_Hammer.obj-da2f41fc085fc31e3f1dfdcba2246632.mesh"]
+
+source_file="res://Assets/Track/Prop_Obstacle_Swinging_Hammer.obj"
+dest_files=["res://.godot/imported/Prop_Obstacle_Swinging_Hammer.obj-da2f41fc085fc31e3f1dfdcba2246632.mesh", "res://.godot/imported/Prop_Obstacle_Swinging_Hammer.obj-da2f41fc085fc31e3f1dfdcba2246632.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

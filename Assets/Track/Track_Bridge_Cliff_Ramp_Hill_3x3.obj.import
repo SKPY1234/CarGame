@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dghnf7cip7psx"
+path="res://.godot/imported/Track_Bridge_Cliff_Ramp_Hill_3x3.obj-20340c4a6a143cc1e5eee1d26f5c7f5b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Bridge_Cliff_Ramp_Hill_3x3.obj-20340c4a6a143cc1e5eee1d26f5c7f5b.mesh"]
+
+source_file="res://Assets/Track/Track_Bridge_Cliff_Ramp_Hill_3x3.obj"
+dest_files=["res://.godot/imported/Track_Bridge_Cliff_Ramp_Hill_3x3.obj-20340c4a6a143cc1e5eee1d26f5c7f5b.mesh", "res://.godot/imported/Track_Bridge_Cliff_Ramp_Hill_3x3.obj-20340c4a6a143cc1e5eee1d26f5c7f5b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

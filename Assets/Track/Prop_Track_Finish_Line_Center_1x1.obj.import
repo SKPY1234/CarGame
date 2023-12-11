@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhaj3orxmt3io"
+path="res://.godot/imported/Prop_Track_Finish_Line_Center_1x1.obj-6f0d822af42e7d977a0c565a2a0ec281.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Track_Finish_Line_Center_1x1.obj-6f0d822af42e7d977a0c565a2a0ec281.mesh"]
+
+source_file="res://Assets/Track/Prop_Track_Finish_Line_Center_1x1.obj"
+dest_files=["res://.godot/imported/Prop_Track_Finish_Line_Center_1x1.obj-6f0d822af42e7d977a0c565a2a0ec281.mesh", "res://.godot/imported/Prop_Track_Finish_Line_Center_1x1.obj-6f0d822af42e7d977a0c565a2a0ec281.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

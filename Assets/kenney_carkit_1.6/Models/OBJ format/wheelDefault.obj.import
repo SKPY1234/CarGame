@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bn83c4w4td7ot"
+path="res://.godot/imported/wheelDefault.obj-976d864914be388765527cce13142f8e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheelDefault.obj-976d864914be388765527cce13142f8e.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/wheelDefault.obj"
+dest_files=["res://.godot/imported/wheelDefault.obj-976d864914be388765527cce13142f8e.mesh", "res://.godot/imported/wheelDefault.obj-976d864914be388765527cce13142f8e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

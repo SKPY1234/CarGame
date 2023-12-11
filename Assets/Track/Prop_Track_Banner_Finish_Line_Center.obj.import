@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cq6hpsm82blqi"
+path="res://.godot/imported/Prop_Track_Banner_Finish_Line_Center.obj-6064b3a507be38555495a4887dffe3e2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Track_Banner_Finish_Line_Center.obj-6064b3a507be38555495a4887dffe3e2.mesh"]
+
+source_file="res://Assets/Track/Prop_Track_Banner_Finish_Line_Center.obj"
+dest_files=["res://.godot/imported/Prop_Track_Banner_Finish_Line_Center.obj-6064b3a507be38555495a4887dffe3e2.mesh", "res://.godot/imported/Prop_Track_Banner_Finish_Line_Center.obj-6064b3a507be38555495a4887dffe3e2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

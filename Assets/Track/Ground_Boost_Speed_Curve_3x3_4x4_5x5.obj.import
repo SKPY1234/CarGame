@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhi3gutf0l482"
+path="res://.godot/imported/Ground_Boost_Speed_Curve_3x3_4x4_5x5.obj-e09d5e132598619ca21a1a90315950fe.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Ground_Boost_Speed_Curve_3x3_4x4_5x5.obj-e09d5e132598619ca21a1a90315950fe.mesh"]
+
+source_file="res://Assets/Track/Ground_Boost_Speed_Curve_3x3_4x4_5x5.obj"
+dest_files=["res://.godot/imported/Ground_Boost_Speed_Curve_3x3_4x4_5x5.obj-e09d5e132598619ca21a1a90315950fe.mesh", "res://.godot/imported/Ground_Boost_Speed_Curve_3x3_4x4_5x5.obj-e09d5e132598619ca21a1a90315950fe.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

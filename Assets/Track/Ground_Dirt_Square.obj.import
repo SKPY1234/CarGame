@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu10t0l8shrqb"
+path="res://.godot/imported/Ground_Dirt_Square.obj-28265b2284f5ed849bee368774cf6151.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Ground_Dirt_Square.obj-28265b2284f5ed849bee368774cf6151.mesh"]
+
+source_file="res://Assets/Track/Ground_Dirt_Square.obj"
+dest_files=["res://.godot/imported/Ground_Dirt_Square.obj-28265b2284f5ed849bee368774cf6151.mesh", "res://.godot/imported/Ground_Dirt_Square.obj-28265b2284f5ed849bee368774cf6151.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

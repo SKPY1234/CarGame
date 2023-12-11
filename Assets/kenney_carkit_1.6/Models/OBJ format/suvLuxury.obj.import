@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bw1luqonxr6eh"
+path="res://.godot/imported/suvLuxury.obj-8bb62886b8bf35d994c8f4567d465127.mesh"
+
+[deps]
+
+files=["res://.godot/imported/suvLuxury.obj-8bb62886b8bf35d994c8f4567d465127.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/suvLuxury.obj"
+dest_files=["res://.godot/imported/suvLuxury.obj-8bb62886b8bf35d994c8f4567d465127.mesh", "res://.godot/imported/suvLuxury.obj-8bb62886b8bf35d994c8f4567d465127.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

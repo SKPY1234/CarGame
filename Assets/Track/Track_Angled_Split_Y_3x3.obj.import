@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://di3sku1e3amre"
+path="res://.godot/imported/Track_Angled_Split_Y_3x3.obj-f6b102df106878303bd30658ff16a0e1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Angled_Split_Y_3x3.obj-f6b102df106878303bd30658ff16a0e1.mesh"]
+
+source_file="res://Assets/Track/Track_Angled_Split_Y_3x3.obj"
+dest_files=["res://.godot/imported/Track_Angled_Split_Y_3x3.obj-f6b102df106878303bd30658ff16a0e1.mesh", "res://.godot/imported/Track_Angled_Split_Y_3x3.obj-f6b102df106878303bd30658ff16a0e1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

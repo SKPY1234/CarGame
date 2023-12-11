@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dv7ar8okc54f8"
+path="res://.godot/imported/Prop_Track_Sign_On_Curve.obj-99ecffae647ec52d5a1ce61c9d1ebe9a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Track_Sign_On_Curve.obj-99ecffae647ec52d5a1ce61c9d1ebe9a.mesh"]
+
+source_file="res://Assets/Track/Prop_Track_Sign_On_Curve.obj"
+dest_files=["res://.godot/imported/Prop_Track_Sign_On_Curve.obj-99ecffae647ec52d5a1ce61c9d1ebe9a.mesh", "res://.godot/imported/Prop_Track_Sign_On_Curve.obj-99ecffae647ec52d5a1ce61c9d1ebe9a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

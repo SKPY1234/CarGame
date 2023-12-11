@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bk5du6ss4x4hg"
+path="res://.godot/imported/Terrain_Water_Corner_Inner_3x3.obj-cfa7ac50d8af0a6b547f153ca8327fd2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Terrain_Water_Corner_Inner_3x3.obj-cfa7ac50d8af0a6b547f153ca8327fd2.mesh"]
+
+source_file="res://Assets/Track/Terrain_Water_Corner_Inner_3x3.obj"
+dest_files=["res://.godot/imported/Terrain_Water_Corner_Inner_3x3.obj-cfa7ac50d8af0a6b547f153ca8327fd2.mesh", "res://.godot/imported/Terrain_Water_Corner_Inner_3x3.obj-cfa7ac50d8af0a6b547f153ca8327fd2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fwx1mww6t22p"
+path="res://.godot/imported/Track_Curbed_Straight_Transitioning_1x1.obj-8c0f0ee34db6a4215027193fc8ee7e6c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Curbed_Straight_Transitioning_1x1.obj-8c0f0ee34db6a4215027193fc8ee7e6c.mesh"]
+
+source_file="res://Assets/Track/Track_Curbed_Straight_Transitioning_1x1.obj"
+dest_files=["res://.godot/imported/Track_Curbed_Straight_Transitioning_1x1.obj-8c0f0ee34db6a4215027193fc8ee7e6c.mesh", "res://.godot/imported/Track_Curbed_Straight_Transitioning_1x1.obj-8c0f0ee34db6a4215027193fc8ee7e6c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

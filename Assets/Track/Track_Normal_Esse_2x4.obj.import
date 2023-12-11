@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b47dpfwk2hvv6"
+path="res://.godot/imported/Track_Normal_Esse_2x4.obj-08592767a211838f9c36a2d8586fd382.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Normal_Esse_2x4.obj-08592767a211838f9c36a2d8586fd382.mesh"]
+
+source_file="res://Assets/Track/Track_Normal_Esse_2x4.obj"
+dest_files=["res://.godot/imported/Track_Normal_Esse_2x4.obj-08592767a211838f9c36a2d8586fd382.mesh", "res://.godot/imported/Track_Normal_Esse_2x4.obj-08592767a211838f9c36a2d8586fd382.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

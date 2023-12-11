@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://e4nk1p83efne"
+path="res://.godot/imported/Track_Angled_Straight_Side_2x2.obj-d71a926fe9e1f3c043515b0087462733.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Angled_Straight_Side_2x2.obj-d71a926fe9e1f3c043515b0087462733.mesh"]
+
+source_file="res://Assets/Track/Track_Angled_Straight_Side_2x2.obj"
+dest_files=["res://.godot/imported/Track_Angled_Straight_Side_2x2.obj-d71a926fe9e1f3c043515b0087462733.mesh", "res://.godot/imported/Track_Angled_Straight_Side_2x2.obj-d71a926fe9e1f3c043515b0087462733.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

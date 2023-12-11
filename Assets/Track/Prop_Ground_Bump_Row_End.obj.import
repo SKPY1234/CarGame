@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fykhmwnidolg"
+path="res://.godot/imported/Prop_Ground_Bump_Row_End.obj-f18e88ac71b58a7432d49a1a053a4e0d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Ground_Bump_Row_End.obj-f18e88ac71b58a7432d49a1a053a4e0d.mesh"]
+
+source_file="res://Assets/Track/Prop_Ground_Bump_Row_End.obj"
+dest_files=["res://.godot/imported/Prop_Ground_Bump_Row_End.obj-f18e88ac71b58a7432d49a1a053a4e0d.mesh", "res://.godot/imported/Prop_Ground_Bump_Row_End.obj-f18e88ac71b58a7432d49a1a053a4e0d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

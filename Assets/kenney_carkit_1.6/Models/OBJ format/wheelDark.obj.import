@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfgc2co6t1wdp"
+path="res://.godot/imported/wheelDark.obj-ea4d07bc8b604d7fdbc17da02cdb085f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheelDark.obj-ea4d07bc8b604d7fdbc17da02cdb085f.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/wheelDark.obj"
+dest_files=["res://.godot/imported/wheelDark.obj-ea4d07bc8b604d7fdbc17da02cdb085f.mesh", "res://.godot/imported/wheelDark.obj-ea4d07bc8b604d7fdbc17da02cdb085f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

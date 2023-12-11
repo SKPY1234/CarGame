@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cbt6ci4ebirtq"
+path="res://.godot/imported/garbageTruck.obj-fb9e728e5091d4af2705c90bc3ae9207.mesh"
+
+[deps]
+
+files=["res://.godot/imported/garbageTruck.obj-fb9e728e5091d4af2705c90bc3ae9207.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/garbageTruck.obj"
+dest_files=["res://.godot/imported/garbageTruck.obj-fb9e728e5091d4af2705c90bc3ae9207.mesh", "res://.godot/imported/garbageTruck.obj-fb9e728e5091d4af2705c90bc3ae9207.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

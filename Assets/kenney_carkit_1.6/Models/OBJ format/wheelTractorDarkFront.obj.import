@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhhypp28c7vo0"
+path="res://.godot/imported/wheelTractorDarkFront.obj-036f60a00c5e8c96508a8fc567230a55.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wheelTractorDarkFront.obj-036f60a00c5e8c96508a8fc567230a55.mesh"]
+
+source_file="res://Assets/kenney_carkit_1.6/Models/OBJ format/wheelTractorDarkFront.obj"
+dest_files=["res://.godot/imported/wheelTractorDarkFront.obj-036f60a00c5e8c96508a8fc567230a55.mesh", "res://.godot/imported/wheelTractorDarkFront.obj-036f60a00c5e8c96508a8fc567230a55.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

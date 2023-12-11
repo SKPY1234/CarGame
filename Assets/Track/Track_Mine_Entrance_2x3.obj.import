@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dibcyt5ortu7r"
+path="res://.godot/imported/Track_Mine_Entrance_2x3.obj-0ff7fe4fcd77bbd48cb9eb93ffdc7f40.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Track_Mine_Entrance_2x3.obj-0ff7fe4fcd77bbd48cb9eb93ffdc7f40.mesh"]
+
+source_file="res://Assets/Track/Track_Mine_Entrance_2x3.obj"
+dest_files=["res://.godot/imported/Track_Mine_Entrance_2x3.obj-0ff7fe4fcd77bbd48cb9eb93ffdc7f40.mesh", "res://.godot/imported/Track_Mine_Entrance_2x3.obj-0ff7fe4fcd77bbd48cb9eb93ffdc7f40.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
